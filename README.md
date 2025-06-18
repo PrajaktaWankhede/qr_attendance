@@ -4,7 +4,7 @@
 - ✅ Location-verified attendance (within 50 meters)
 - 🔐 Secure and real-time QR-based access
 - 📍 Only users at the defined coordinates can mark attendance
-- 🌐 Mobile-friendly UI with Tailwind CSS
+- 🌐 Mobile-friendly UI 
 - 🌀 Auto-refreshing QR code for enhanced security
 
   ## 📍 Fixed Attendance Location
